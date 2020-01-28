@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\bin\Debug\netcoreapp3.1\killamonster.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\obj\Debug\netcoreapp3.1\killamonster.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\obj\Debug\netcoreapp3.1\killamonster.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\obj\Debug\netcoreapp3.1\killamonster.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\obj\Debug\netcoreapp3.1\killamonster.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\killamonster\obj\Debug\netcoreapp3.1\killamonster.pdb

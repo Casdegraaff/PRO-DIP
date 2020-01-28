@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\obj\Debug\netcoreapp3.1\GYIMS.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\obj\Debug\netcoreapp3.1\GYIMS.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\obj\Debug\netcoreapp3.1\GYIMS.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\bin\Debug\netcoreapp3.1\GYIMS.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\obj\Debug\netcoreapp3.1\GYIMS.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\GYIMS\obj\Debug\netcoreapp3.1\GYIMS.pdb

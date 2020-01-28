@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Add an instance of a class/1.0.0": {
+        "runtime": {
+          "Add an instance of a class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add an instance of a class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

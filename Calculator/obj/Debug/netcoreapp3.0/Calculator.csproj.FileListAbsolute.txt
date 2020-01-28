@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\bin\Debug\netcoreapp3.0\Calculator.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\obj\Debug\netcoreapp3.0\Calculator.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\obj\Debug\netcoreapp3.0\Calculator.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\Calculator\obj\Debug\netcoreapp3.0\Calculator.pdb

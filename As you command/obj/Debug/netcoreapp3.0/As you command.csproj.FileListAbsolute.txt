@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\bin\Debug\netcoreapp3.0\As you command.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\obj\Debug\netcoreapp3.0\As you command.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\obj\Debug\netcoreapp3.0\As you command.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\obj\Debug\netcoreapp3.0\As you command.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\obj\Debug\netcoreapp3.0\As you command.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pr02\As you command\obj\Debug\netcoreapp3.0\As you command.pdb
